@@ -1,5 +1,5 @@
 # VBA Applications
-![Example Image](vba.png)
+<img src="vba.png" alt="Banner Image" style="width: 100%;">
 <br>
 Welcome to the **VBA Applications** repository! This collection features a range of applications and scripts developed in Visual Basic for Applications (VBA), designed to enhance productivity across various Microsoft Office applications.
 
